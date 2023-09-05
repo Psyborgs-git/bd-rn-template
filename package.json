@@ -1,0 +1,8 @@
+{
+	"name": "bd-rn-template",
+	"version": "0.0.5",
+	"description": "Beyondigital React Native Template",
+	"repository": "git@github.com:Psyborgs-git/bd-rn-template.git",
+	"author": "Jae <sjainam74@gmail.com>",
+	"license": "MIT"
+}
